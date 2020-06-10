@@ -1,0 +1,8 @@
+C:\Users\ismail\source\repos\PIXSelectProject\Entities\bin\x64\Release\netstandard2.0\Entities.deps.json
+C:\Users\ismail\source\repos\PIXSelectProject\Entities\bin\x64\Release\netstandard2.0\Entities.dll
+C:\Users\ismail\source\repos\PIXSelectProject\Entities\bin\x64\Release\netstandard2.0\Entities.pdb
+C:\Users\ismail\source\repos\PIXSelectProject\Entities\obj\x64\Release\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ismail\source\repos\PIXSelectProject\Entities\obj\x64\Release\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\ismail\source\repos\PIXSelectProject\Entities\obj\x64\Release\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\ismail\source\repos\PIXSelectProject\Entities\obj\x64\Release\netstandard2.0\Entities.dll
+C:\Users\ismail\source\repos\PIXSelectProject\Entities\obj\x64\Release\netstandard2.0\Entities.pdb
